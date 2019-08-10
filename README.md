@@ -1,24 +1,5 @@
-# README
+# Test Rails app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository is a sample rails app used to test the [Microverse's Linters-Config](https://github.com/microverseinc/linters-config) for Rails.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Go to [**commits history**](https://github.com/Nazeh/test_app/commits/master) to check the steps and Stickler checks.
